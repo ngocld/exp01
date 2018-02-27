@@ -1,0 +1,12 @@
+D:\GoogleDrive\Learning\Pluralsight\defensive-coding-csharp\4-defensive-coding-csharp-exercise-files\AcmeCustomerManagement\Test Projects\ACM.BLTests\bin\Debug\ACM.BLTests.dll
+D:\GoogleDrive\Learning\Pluralsight\defensive-coding-csharp\4-defensive-coding-csharp-exercise-files\AcmeCustomerManagement\Test Projects\ACM.BLTests\bin\Debug\ACM.BLTests.pdb
+D:\GoogleDrive\Learning\Pluralsight\defensive-coding-csharp\4-defensive-coding-csharp-exercise-files\AcmeCustomerManagement\Test Projects\ACM.BLTests\bin\Debug\ACM.BL.dll
+D:\GoogleDrive\Learning\Pluralsight\defensive-coding-csharp\4-defensive-coding-csharp-exercise-files\AcmeCustomerManagement\Test Projects\ACM.BLTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\GoogleDrive\Learning\Pluralsight\defensive-coding-csharp\4-defensive-coding-csharp-exercise-files\AcmeCustomerManagement\Test Projects\ACM.BLTests\bin\Debug\ACM.Library.dll
+D:\GoogleDrive\Learning\Pluralsight\defensive-coding-csharp\4-defensive-coding-csharp-exercise-files\AcmeCustomerManagement\Test Projects\ACM.BLTests\bin\Debug\ACM.BL.pdb
+D:\GoogleDrive\Learning\Pluralsight\defensive-coding-csharp\4-defensive-coding-csharp-exercise-files\AcmeCustomerManagement\Test Projects\ACM.BLTests\bin\Debug\ACM.BL.xml
+D:\GoogleDrive\Learning\Pluralsight\defensive-coding-csharp\4-defensive-coding-csharp-exercise-files\AcmeCustomerManagement\Test Projects\ACM.BLTests\bin\Debug\ACM.Library.pdb
+D:\GoogleDrive\Learning\Pluralsight\defensive-coding-csharp\4-defensive-coding-csharp-exercise-files\AcmeCustomerManagement\Test Projects\ACM.BLTests\obj\Debug\ACM.BLTests.csprojResolveAssemblyReference.cache
+D:\GoogleDrive\Learning\Pluralsight\defensive-coding-csharp\4-defensive-coding-csharp-exercise-files\AcmeCustomerManagement\Test Projects\ACM.BLTests\obj\Debug\ACM.BLTests.csproj.CoreCompileInputs.cache
+D:\GoogleDrive\Learning\Pluralsight\defensive-coding-csharp\4-defensive-coding-csharp-exercise-files\AcmeCustomerManagement\Test Projects\ACM.BLTests\obj\Debug\ACM.BLTests.dll
+D:\GoogleDrive\Learning\Pluralsight\defensive-coding-csharp\4-defensive-coding-csharp-exercise-files\AcmeCustomerManagement\Test Projects\ACM.BLTests\obj\Debug\ACM.BLTests.pdb

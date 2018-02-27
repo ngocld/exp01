@@ -1,0 +1,5 @@
+D:\GoogleDrive\Learning\Pluralsight\defensive-coding-csharp\4-defensive-coding-csharp-exercise-files\AcmeCustomerManagement\Core.Common\bin\Debug\ACM.Library.dll
+D:\GoogleDrive\Learning\Pluralsight\defensive-coding-csharp\4-defensive-coding-csharp-exercise-files\AcmeCustomerManagement\Core.Common\bin\Debug\ACM.Library.pdb
+D:\GoogleDrive\Learning\Pluralsight\defensive-coding-csharp\4-defensive-coding-csharp-exercise-files\AcmeCustomerManagement\Core.Common\obj\Debug\Core.Common.csproj.CoreCompileInputs.cache
+D:\GoogleDrive\Learning\Pluralsight\defensive-coding-csharp\4-defensive-coding-csharp-exercise-files\AcmeCustomerManagement\Core.Common\obj\Debug\ACM.Library.dll
+D:\GoogleDrive\Learning\Pluralsight\defensive-coding-csharp\4-defensive-coding-csharp-exercise-files\AcmeCustomerManagement\Core.Common\obj\Debug\ACM.Library.pdb

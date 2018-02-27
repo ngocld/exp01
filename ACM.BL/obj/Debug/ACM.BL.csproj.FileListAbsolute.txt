@@ -1,0 +1,9 @@
+D:\GoogleDrive\Learning\Pluralsight\defensive-coding-csharp\4-defensive-coding-csharp-exercise-files\AcmeCustomerManagement\ACM.BL\bin\Debug\ACM.BL.xml
+D:\GoogleDrive\Learning\Pluralsight\defensive-coding-csharp\4-defensive-coding-csharp-exercise-files\AcmeCustomerManagement\ACM.BL\bin\Debug\ACM.BL.dll
+D:\GoogleDrive\Learning\Pluralsight\defensive-coding-csharp\4-defensive-coding-csharp-exercise-files\AcmeCustomerManagement\ACM.BL\bin\Debug\ACM.BL.pdb
+D:\GoogleDrive\Learning\Pluralsight\defensive-coding-csharp\4-defensive-coding-csharp-exercise-files\AcmeCustomerManagement\ACM.BL\bin\Debug\ACM.Library.dll
+D:\GoogleDrive\Learning\Pluralsight\defensive-coding-csharp\4-defensive-coding-csharp-exercise-files\AcmeCustomerManagement\ACM.BL\bin\Debug\ACM.Library.pdb
+D:\GoogleDrive\Learning\Pluralsight\defensive-coding-csharp\4-defensive-coding-csharp-exercise-files\AcmeCustomerManagement\ACM.BL\obj\Debug\ACM.BL.csprojResolveAssemblyReference.cache
+D:\GoogleDrive\Learning\Pluralsight\defensive-coding-csharp\4-defensive-coding-csharp-exercise-files\AcmeCustomerManagement\ACM.BL\obj\Debug\ACM.BL.csproj.CoreCompileInputs.cache
+D:\GoogleDrive\Learning\Pluralsight\defensive-coding-csharp\4-defensive-coding-csharp-exercise-files\AcmeCustomerManagement\ACM.BL\obj\Debug\ACM.BL.dll
+D:\GoogleDrive\Learning\Pluralsight\defensive-coding-csharp\4-defensive-coding-csharp-exercise-files\AcmeCustomerManagement\ACM.BL\obj\Debug\ACM.BL.pdb
